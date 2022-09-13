@@ -1,0 +1,57 @@
+body {
+    
+     background-image: url(images/1.jpg); 
+     color:#fff;
+}
+.aboba {
+  
+        color: white; /* Цвет обычной ссылки */
+        padding: 3px; /* Поля вокруг текста */
+}
+       .aboba:visited {
+        color: #fff; /* Цвет посещенной ссылки */
+       } 
+       .aboba:hover {
+        text-decoration: none; /* Убираем подчеркивание */
+        color: #fff; /* Цвет ссылки при наведении на нее курсора мыши */  
+        background: #e24486; /* Цвет фона */
+       }
+ .aboba2 {
+  
+        color: white; /* Цвет обычной ссылки */
+        padding: 3px; /* Поля вокруг текста */
+}
+       .aboba2:visited {
+        color: #fff; /* Цвет посещенной ссылки */
+       } 
+       .aboba2:hover {
+        text-decoration: none; /* Убираем подчеркивание */
+        color: #fff; /* Цвет ссылки при наведении на нее курсора мыши */  
+        background: #e24486; /* Цвет фона */
+       }   
+       .aboba3 {
+  
+        color: white; /* Цвет обычной ссылки */
+        padding: 3px; /* Поля вокруг текста */
+}
+       .aboba3:visited {
+        color: #fff; /* Цвет посещенной ссылки */
+       } 
+       .aboba3:hover {
+        text-decoration: none; /* Убираем подчеркивание */
+        color: #fff; /* Цвет ссылки при наведении на нее курсора мыши */  
+        background: #e24486; /* Цвет фона */
+       }
+       .aboba4 {
+  
+        color: white; /* Цвет обычной ссылки */
+        padding: 3px; /* Поля вокруг текста */
+}
+       .aboba4:visited {
+        color: #fff; /* Цвет посещенной ссылки */
+       } 
+       .aboba4:hover {
+        text-decoration: none; /* Убираем подчеркивание */
+        color: #fff; /* Цвет ссылки при наведении на нее курсора мыши */  
+        background: #e24486; /* Цвет фона */
+       }
